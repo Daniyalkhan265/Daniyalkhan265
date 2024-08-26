@@ -4,7 +4,7 @@ I'm a front-end developer with 3+ years of experience specializing in **Vue.js**
 
 ## 🚀 Skills & Technologies
 - **Frameworks & Libraries:** Vue.js, React, Nuxt3
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, Tailwind,Bootstrap
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3, Tailwind, Bootstrap
 - **Tools & Technologies:** Git, Webpack, Babel, RESTful APIs, GraphQL
 - **Other Skills:** Responsive Design, Front-End Architecture, UI/UX Principles
 
