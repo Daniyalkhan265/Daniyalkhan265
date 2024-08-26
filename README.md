@@ -1,4 +1,4 @@
-# Hi there, Daniyal Khan 👋
+# Hi there, I'm Daniyal Khan 👋
 
 I'm a front-end developer with 3+ years of experience specializing in **Vue.js** and **React**. I’m passionate about building efficient, scalable, and user-friendly web applications.
 
